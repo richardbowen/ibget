@@ -1,2 +1,2 @@
 # ibget
-Gets reports from Interactive Brokers
+Gets Flex reports from Interactive Brokers
